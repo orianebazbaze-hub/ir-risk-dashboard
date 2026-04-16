@@ -1,4 +1,5 @@
-# IR Risk Dashboard — Corporate Treasury
+# IR Risk Dashboard <img width="715" height="566" alt="Capture d’écran 2026-04-16 à 12 35 56" src="https://github.com/user-attachments/assets/e73caefd-e56b-4867-93c8-d5eeaf3603c2" />
+
 
 > **Interest Rate Portfolio Management | 
 > Full-stack risk dashboard: Python risk engine (Flask REST API) + JavaScript frontend.
