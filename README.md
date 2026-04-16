@@ -1,6 +1,6 @@
 # IR Risk Dashboard — Corporate Treasury
 
-> **Interest Rate Portfolio Management | Goldman Sachs Paris**  
+> **Interest Rate Portfolio Management | 
 > Full-stack risk dashboard: Python risk engine (Flask REST API) + JavaScript frontend.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![Flask](https://img.shields.io/badge/Flask-3.0-green) ![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-yellow) ![Basel III](https://img.shields.io/badge/IRRBB-Basel%20III%20%2F%20EBA%202022-red)
@@ -9,8 +9,7 @@
 
 ## Disclaimer
 
-> **Portfolio fictif à des fins de démonstration.**  
-> Les instruments utilisés dans ce dashboard (OAT, Bund, BTP, IRS EUR) sont choisis uniquement pour construire un portefeuille illustratif représentatif d'un book de Corporate Treasury. Les notionnels, taux et paramètres de marché sont simulés et ne reflètent aucune position réelle. L'objectif est de démontrer les capacités du moteur de risque : bootstrapping de courbe, DV01 full-revaluation, KRD, stress tests IRRBB et calcul LCR/NSFR.
+The instruments used in this dashboard (OAT, Bund, BTP, EUR IRS) were selected solely to build an illustrative portfolio representative of a Corporate Treasury book. Notionals, rates and market parameters are simulated and do not reflect any real position. The purpose is to demonstrate the capabilities of the risk engine: curve bootstrapping, full-revaluation DV01, KRD, IRRBB stress tests and LCR/NSFR computation.
 
 ---
 
@@ -37,22 +36,7 @@ A production-style interest rate risk dashboard that combines:
 
 ---
 
-## Quickstart
 
-```bash
-# 1. Clone & install
-git clone https://github.com/yourname/ir-risk-dashboard
-cd ir-risk-dashboard
-pip install -r requirements.txt
-
-# 2. Run
-python app.py
-
-# 3. Open
-open http://localhost:5000
-```
-
----
 
 ## Dashboard Sections
 
@@ -136,7 +120,4 @@ Related modules in this repository:
 ---
 
 ## Author
-
-**[Your Name]**  
-Interest Rate Risk & Corporate Treasury  
-[LinkedIn] | [Email]
+ob
