@@ -10,7 +10,7 @@
 
 ## Disclaimer
 
-The instruments used in this dashboard (OAT, Bund, BTP, EUR IRS) were selected solely to build an illustrative portfolio representative of a Corporate Treasury book. Notionals, rates and market parameters are simulated and do not reflect any real position. The purpose is to demonstrate the capabilities of the risk engine: curve bootstrapping, full-revaluation DV01, KRD, IRRBB stress tests and LCR/NSFR computation.
+The instruments used in this dashboard (OAT, Bund, BTP, EUR IRS) were selected solely to build an illustrative portfolio representative of a verry simplified investment portfolio book. Notionals, rates and market parameters are simulated and do not reflect any real position. The purpose is to demonstrate the capabilities of the risk engine: curve bootstrapping, full-revaluation DV01, KRD, IRRBB stress tests and LCR/NSFR computation.
 
 ---
 
