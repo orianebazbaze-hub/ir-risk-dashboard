@@ -1,4 +1,4 @@
- <img width="715" height="566" alt="Capture d’écran 2026-04-16 à 12 35 56" src="https://github.com/user-attachments/assets/e73caefd-e56b-4867-93c8-d5eeaf3603c2" />
+
 
 # IR Risk Dashboard
 
@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![Flask](https://img.shields.io/badge/Flask-3.0-green) ![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-yellow)
 
 > **Fictitious portfolio for demonstration purposes only.** All positions (OAT, Bund, BTP, EUR IRS), notionals, rates and market parameters are simulated. Not for trading.
-
+ <img width="715" height="566" alt="Capture d’écran 2026-04-16 à 12 35 56" src="https://github.com/user-attachments/assets/e73caefd-e56b-4867-93c8-d5eeaf3603c2" />
 ---
 
 ## Use Case
