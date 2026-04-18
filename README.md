@@ -227,3 +227,5 @@ ir_risk_dashboard/
 - **Behavioural models** for non-maturity deposits (NMD runoff)
 - **Convexity adjustment** for options / callable structures
 
+## Author
+ob
